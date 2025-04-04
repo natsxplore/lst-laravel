@@ -12,6 +12,8 @@
         "vite": "^6.0.11"
     },
     "dependencies": {
-        "bootstrap": "^5.3.4"
+        "block-ui": "^2.70.1",
+        "bootstrap": "^5.3.4",
+        "jquery": "^3.7.1"
     }
 }
